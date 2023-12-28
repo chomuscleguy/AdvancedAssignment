@@ -20,12 +20,12 @@ AnimatorStateMachine:
   m_EntryTransitions:
   - {fileID: 8673714114196524222}
   m_StateMachineTransitions:
-  - first: {fileID: 175366108743632735}
-    second:
-    - {fileID: 6914973494091231909}
   - first: {fileID: 6972368517982450991}
     second:
     - {fileID: 8986406709117046913}
+  - first: {fileID: 175366108743632735}
+    second:
+    - {fileID: 6914973494091231909}
   m_StateMachineBehaviours: []
   m_AnyStatePosition: {x: 50, y: 20, z: 0}
   m_EntryPosition: {x: 50, y: 120, z: 0}
@@ -95,7 +95,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: -203655887218126122, guid: 2aedd4cf7327c02469e2d3d891431456,
+  m_Motion: {fileID: -203655887218126122, guid: 74218ec2bc8faf242b9ef4c7fee44f1c,
     type: 3}
   m_Tag: 
   m_SpeedParameter: 
@@ -264,7 +264,8 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: fd8a2a4858f2ed143bf0e42f59f36dbf, type: 2}
+  m_Motion: {fileID: -203655887218126122, guid: ae2d1bb5926a3734e932effeef9d0d59,
+    type: 3}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -291,7 +292,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: -203655887218126122, guid: 4d57fc464198a094486944b175bb0a0f,
+  m_Motion: {fileID: -203655887218126122, guid: 71aa29d8980150d46ade320ff97b17cc,
     type: 3}
   m_Tag: 
   m_SpeedParameter: 
@@ -345,7 +346,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: -203655887218126122, guid: 337798146a9437244931e046d865c482,
+  m_Motion: {fileID: -203655887218126122, guid: f9d0fea3c513c3945b2b36c10cd5a7ab,
     type: 3}
   m_Tag: 
   m_SpeedParameter: 
@@ -583,7 +584,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: -203655887218126122, guid: a593b246475ed524c9c55b3776543dcc,
+  m_Motion: {fileID: -203655887218126122, guid: 2da8412a066e62343b3de711d0997394,
     type: 3}
   m_Tag: 
   m_SpeedParameter: 
