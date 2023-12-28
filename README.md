@@ -24,7 +24,9 @@
 
 사용에셋
 학교 배경 : https://assetstore.unity.com/packages/3d/environments/japanese-school-stylized-221256
+
 히로인 : https://assetstore.unity.com/packages/3d/characters/humanoids/latifa-v2-3d-free-anime-style-character-game-ready-vrchat-184723
+
 UI : https://assetstore.unity.com/packages/2d/gui/sweet-land-gui-208285
 
 빌트인 에셋을 URP로 가져오면서 많은 오류가 있었기 때문에 기능구현에 힘쓸 시간이 더욱 줄어들었습니다.
