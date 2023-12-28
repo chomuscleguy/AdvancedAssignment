@@ -31,3 +31,8 @@ UI : https://assetstore.unity.com/packages/2d/gui/sweet-land-gui-208285
 
 빌트인 에셋을 URP로 가져오면서 많은 오류가 있었기 때문에 기능구현에 힘쓸 시간이 더욱 줄어들었습니다.
 
+StartScene과 MainScene을 나누어 작업을 진행
+
+UI작업시 껐다 키는 기능은 Setbool를 이용 스크립트의 사용을 줄여보았습니다.
+
+여유시간이 생기면 설정에서 음향조절을 구현해볼 예정이고 일단은 게임부터 구현해볼 예정
