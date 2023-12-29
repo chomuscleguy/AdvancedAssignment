@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class PlayerWalkState : PlayerGroundedState
+public class PlayerWalkState : HeroineGroundedState
 {
     public PlayerWalkState(PlayerStateMachine playerStateMachine) : base(playerStateMachine)
     {

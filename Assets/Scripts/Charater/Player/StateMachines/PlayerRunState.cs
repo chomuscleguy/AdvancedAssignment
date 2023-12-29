@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerRunState : PlayerGroundedState
+public class PlayerRunState : HeroineGroundedState
 {
     public PlayerRunState(PlayerStateMachine playerStateMachine) : base(playerStateMachine)
     {

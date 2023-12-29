@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class PlayerGroundedState : PlayerBaseState
+public class HeroineGroundedState : PlayerBaseState
 {
-    public PlayerGroundedState(PlayerStateMachine playerStateMachine) : base(playerStateMachine)
+    public HeroineGroundedState(PlayerStateMachine playerStateMachine) : base(playerStateMachine)
     {
 
     }
